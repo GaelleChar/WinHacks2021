@@ -21,7 +21,6 @@ steps:
   inputs:
     command: publish
     publishWebProjects: false
-    projects: 'src/Vendors/vendors.csproj'
     arguments: '--configuration $(buildConfiguration) --output $(Build.artifactStagingDirectory)'
     zipAfterPublish: true
 
