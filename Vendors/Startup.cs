@@ -32,6 +32,7 @@ namespace Vendors
              services.AddDbContext<VendorContext>(opt => opt.UseSqlServer
                 (Configuration.GetConnectionString("VendorConnection")));
 
+
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             
             services.AddScoped<IVendorRepo, SqlVendorRepo>();

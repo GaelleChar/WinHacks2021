@@ -1,5 +1,10 @@
+D:\LearnAPI\Vendors\obj\Debug\netcoreapp3.1\vendors.csprojAssemblyReference.cache
+D:\LearnAPI\Vendors\obj\Debug\netcoreapp3.1\vendors.AssemblyInfoInputs.cache
+D:\LearnAPI\Vendors\obj\Debug\netcoreapp3.1\vendors.AssemblyInfo.cs
+D:\LearnAPI\Vendors\obj\Debug\netcoreapp3.1\vendors.csproj.CoreCompileInputs.cache
 D:\LearnAPI\Vendors\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\LearnAPI\Vendors\bin\Debug\netcoreapp3.1\appsettings.json
+D:\LearnAPI\Vendors\bin\Debug\netcoreapp3.1\local.settings.json
 D:\LearnAPI\Vendors\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\LearnAPI\Vendors\bin\Debug\netcoreapp3.1\vendors.exe
 D:\LearnAPI\Vendors\bin\Debug\netcoreapp3.1\vendors.deps.json
@@ -51,10 +56,6 @@ D:\LearnAPI\Vendors\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Da
 D:\LearnAPI\Vendors\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 D:\LearnAPI\Vendors\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\LearnAPI\Vendors\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\LearnAPI\Vendors\obj\Debug\netcoreapp3.1\vendors.csprojAssemblyReference.cache
-D:\LearnAPI\Vendors\obj\Debug\netcoreapp3.1\vendors.AssemblyInfoInputs.cache
-D:\LearnAPI\Vendors\obj\Debug\netcoreapp3.1\vendors.AssemblyInfo.cs
-D:\LearnAPI\Vendors\obj\Debug\netcoreapp3.1\vendors.csproj.CoreCompileInputs.cache
 D:\LearnAPI\Vendors\obj\Debug\netcoreapp3.1\vendors.MvcApplicationPartsAssemblyInfo.cache
 D:\LearnAPI\Vendors\obj\Debug\netcoreapp3.1\vendors.RazorTargetAssemblyInfo.cache
 D:\LearnAPI\Vendors\obj\Debug\netcoreapp3.1\vendors.csproj.CopyComplete

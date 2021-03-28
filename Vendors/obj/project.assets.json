@@ -5790,11 +5790,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LearnAPI\\Vendors\\vendors.csproj",
+      "projectUniqueName": "d:\\LearnAPI\\Vendors\\vendors.csproj",
       "projectName": "vendors",
-      "projectPath": "D:\\LearnAPI\\Vendors\\vendors.csproj",
+      "projectPath": "d:\\LearnAPI\\Vendors\\vendors.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "D:\\LearnAPI\\Vendors\\obj\\",
+      "outputPath": "d:\\LearnAPI\\Vendors\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
